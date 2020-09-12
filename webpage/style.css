@@ -13,6 +13,16 @@
     	overflow: auto;
     
 }
+.bgi1
+{
+	width:100%;
+	height:100vh;
+	background-image:url(image/background.jpg);
+	background-position:center;
+	background-size:cover;
+    	overflow: auto;
+    
+}
 .navbar{
     width: 85%;
     height: 15%;
