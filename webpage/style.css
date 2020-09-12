@@ -96,7 +96,7 @@ button2
     align-items: center;
     justify-content: space-around;
     position: absolute;
-    bottom: -90px;
+    bottom: -50px;
 }
 @keyframes ani
 {
