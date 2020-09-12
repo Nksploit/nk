@@ -10,7 +10,7 @@
 	background-image:url(image/back.jpg);
 	background-position:center;
 	background-size:cover;
-    overflow: hidden;
+    	overflow: auto;
     
 }
 .navbar{
